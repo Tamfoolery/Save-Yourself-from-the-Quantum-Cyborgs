@@ -1,0 +1,15 @@
+{
+  "name": "Save-Yourself-from-the-Quantum-Cyborgs",
+  "description": "A team based RTS game.",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Tam <tamfoolery@live.co.uk>",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  },
+  "engine": "node >= 0.12.0",
+  "scripts": {
+    "start": "node app"
+  }
+}
